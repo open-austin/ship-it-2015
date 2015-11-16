@@ -2,20 +2,20 @@
 
 ## List of projects:
 
-| Project Title | RSVP | NEEDS | live site | source | Topics |
-|---------------|------|-------|--------|-----------|-------|
-| Austin Green Map | :white_check_mark: | [3 open issues](https://github.com/open-austin/austingreenmap/labels/Ship%20It%20Weekend) | TODO | TODO | Parks & Rec |
-| Open By Default Policy Campaign | :white_check_mark: | TODO | TODO | TODO | Policy & Open Data |
-| Instabus | :white_check_mark: | TODO | TODO | TODO | Transit |
-| Recyling Bin _(aka My Building Doesn't Recycle)_ | :white_check_mark: | TODO | TODO | TODO | Recycling & Sustainability |
-| XYZ Altas | :white_check_mark: | TODO | http://www.xyzatlas.org/ | TODO | Public Art & Mapping |
-| DigitalATX.org | :white_check_mark: | TODO | https://digitalatx082015.herokuapp.com/ | TODO | Digital Inclusion & Community Organizing |
-| Data Portal Analysis | :white_check_mark: | TODO | TODO | TODO | Open Data |
-| Open Data Progress Report | :white_check_mark: | TODO | TODO | TODO | Open Data |
-| Austin Park Equity | :white_check_mark: | TODO | TODO | TODO | Parks Access |
-| Open Austin Website | :white_check_mark: | TODO | TODO | TODO | OA Admin |
-| Pet Alerts | | TODO | TODO | TODO | Animal Services |
-| MyCreekATX | | TODO | TODO | TODO | Ecology, Water, Environment, Community Organizing |
+| Project Title (link) | RSVP | NEEDS | SOURCE | Topics |
+|----------------------|------|-------|--------|--------|
+| [Austin Green Map](http://open-austin.github.io/austingreenmap/) | :white_check_mark: | [Update Data, Reconsider Architecture, User Feedback](https://github.com/open-austin/austingreenmap/labels/Ship%20It%20Weekend) | [Github](https://github.com/open-austin/austingreenmap) | Parks & Rec |
+| Open By Default Policy Campaign | :white_check_mark: | TODO | TODO | Policy & Open Data |
+| Instabus | :white_check_mark: | TODO | TODO | Transit |
+| Recyling Bin _(aka My Building Doesn't Recycle)_ | :white_check_mark: | TODO | TODO | Recycling & Sustainability |
+| [XYZ Altas](https://digitalatx082015.herokuapp.com/) | :white_check_mark: | TODO | TODO | Public Art & Mapping |
+| DigitalATX.org | :white_check_mark: | TODO | TODO | Digital Inclusion & Community Organizing |
+| Data Portal Analysis | :white_check_mark: | TODO | TODO | Open Data |
+| Open Data Progress Report | :white_check_mark: | TODO | TODO | Open Data |
+| Austin Park Equity | :white_check_mark: | TODO | TODO | Parks Access |
+| Open Austin Website | :white_check_mark: | TODO | TODO | OA Admin |
+| Pet Alerts | | TODO | TODO | Animal Services |
+| MyCreekATX | | TODO | TODO | Ecology, Water, Environment, Community Organizing |
 
 ## Other projects Open Austin has worked on this year:
  
