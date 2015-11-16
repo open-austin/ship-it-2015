@@ -7,16 +7,16 @@
 | [Austin Green Map](http://open-austin.github.io/austingreenmap/) | :white_check_mark: | [Update Data, Reconsider Architecture, User Feedback](https://github.com/open-austin/austingreenmap/labels/Ship%20It%20Weekend) | [Github](https://github.com/open-austin/austingreenmap) | Parks & Rec |
 | [Open By Default Policy Campaign](https://github.com/open-austin/open-by-default) | :white_check_mark: | [Review Exisitng Policies, Suggest and comment on new priorities, Suggest Datasets for Liberation](https://github.com/open-austin/open-by-default/labels/Ship%20It%20Weekend) | N/A | Policy & Open Data |
 | [Instabus](http://instabus.org/) | :white_check_mark: | TODO | [Github](https://github.com/luqmaan/Instabus) | Transit & Buses |
-| Recyling Bin _(aka My Building Doesn't Recycle)_ | :white_check_mark: | TODO | [Github](https://github.com/open-austin/recycling-bin) | Recycling & Sustainability |
+| Recyling Bin _(aka My Building Doesn't Recycle)_ | :white_check_mark: | [TODO](https://github.com/open-austin/recycling-atx/issues) | [Github](https://github.com/open-austin/recycling-bin) | Recycling & Sustainability |
 | [XYZ Altas](https://digitalatx082015.herokuapp.com/) | :white_check_mark: | TODO | TODO | Public Art & Mapping |
-| DigitalATX.org | :white_check_mark: | TODO | TODO | Digital Inclusion & Community Organizing |
-| Data Portal Analysis | :white_check_mark: | TODO | TODO | Open Data |
-| Open Data Progress Report | :white_check_mark: | TODO | TODO | Open Data |
+| [DigitalATX.org](https://digitalatx082015.herokuapp.com/) | :white_check_mark: | TODO | [Github](https://github.com/DigitalInclusion/digitalatx) | Digital Inclusion & Community Organizing |
+| Data Portal Analysis | :white_check_mark: | TODO | [Github](https://github.com/open-austin/data-portal-analysis) | Open Data |
+| [Open Data Progress Report](http://open-austin.github.io/open-data-progress-report/) | :white_check_mark: | [Mobile UX, link to new data liberated](https://github.com/open-austin/open-data-progress-report/issues) | [Github](https://github.com/open-austin/open-data-progress-report/) | Open Data |
 | [Bill Tracker](http://www.billtracker.org/) | :white_check_mark: | TODO | [Github](https://github.com/bill-tracker/bill-tracker) | State Government |
-| Austin Park Equity | :white_check_mark: | TODO | TODO | Parks Access |
-| Open Austin Website | :white_check_mark: | TODO | TODO | OA Admin |
-| Pet Alerts | | TODO | TODO | Animal Services |
-| MyCreekATX | | TODO | TODO | Ecology, Water, Environment, Community Organizing |
+| [Austin Park Equity](http://austinparkequity.com/) | :white_check_mark: | [Javascript, Incorporate more census data, consolidate data source from OSM](https://github.com/open-austin/austin-park-equity/issues) | [Github](https://github.com/open-austin/austin-park-equity) | Parks Access |
+| [Open-Austin.org](http://open-austin.github.io/open-austin-org/) | :white_check_mark: | [Turn design comps into Jekyll code, migrate old content from WP](https://github.com/open-austin/open-austin-org/issues) | [Github](https://github.com/open-austin/open-austin-org)) | OA Admin |
+| [Pet Alerts](http://www.pet-alerts.com/) | | TODO | [Github](https://github.com/open-austin/pet-finder) | Animal Services |
+| [MyCreekATX](http://www.mycreekatx.com/) | | TODO | [Github](https://github.com/mycreekatx) | Ecology, Water, Environment, Community Organizing |
 
 ## Other projects Open Austin has worked on this year:
  
