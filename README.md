@@ -14,9 +14,9 @@
 | [Open Data Progress Report](http://open-austin.github.io/open-data-progress-report/) | :white_check_mark: | [Mobile UX, link to new data liberated](https://github.com/open-austin/open-data-progress-report/issues) | [Github](https://github.com/open-austin/open-data-progress-report/) | Open Data |
 | [Bill Tracker](http://www.billtracker.org/) | :white_check_mark: | TODO | [Github](https://github.com/bill-tracker/bill-tracker) | State Government |
 | [Austin Park Equity](http://austinparkequity.com/) | :white_check_mark: | [Javascript, Incorporate more census data, consolidate data source from OSM](https://github.com/open-austin/austin-park-equity/issues) | [Github](https://github.com/open-austin/austin-park-equity) | Parks Access |
-| [Open-Austin.org](http://open-austin.github.io/open-austin-org/) | :white_check_mark: | [Turn design comps into Jekyll code, migrate old content from WP](https://github.com/open-austin/open-austin-org/issues) | [Github](https://github.com/open-austin/open-austin-org) | OA Admin |
+| [open-austin.org](http://open-austin.github.io/open-austin-org/) | :white_check_mark: | [Turn design comps into Jekyll code, migrate old content from WP](https://github.com/open-austin/open-austin-org/issues) | [Github](https://github.com/open-austin/open-austin-org) | OA Admin |
 | [Open Street Map ATX Buildings Import](https://github.com/atx-osg/atx-buildings) | :white_check_mark: | TODO | [Github](https://github.com/atx-osg/atx-buildings) | OSM, GIS, Mapping |
-| [Texas Appleseed]() | :white_check_mark: | TODO | [TODO]() | Justice & Education |
+| [Texas Appleseed](http://forum-include.codio.io:3000/wordpress/) | :white_check_mark: | TODO | TODO | Justice & Education |
 | [Pet Alerts](http://www.pet-alerts.com/) | | TODO | [Github](https://github.com/open-austin/pet-finder) | Animal Services |
 | [MyCreekATX](http://www.mycreekatx.com/) | | TODO | [Github](https://github.com/mycreekatx) | Ecology, Water, Environment, Community Organizing |
 
