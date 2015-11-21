@@ -16,10 +16,10 @@
 | [Austin Park Equity](http://austinparkequity.com/) | :white_check_mark: | [Javascript, Incorporate more census data, consolidate data source from OSM](https://github.com/open-austin/austin-park-equity/issues) | [Github](https://github.com/open-austin/austin-park-equity) | Parks Access |
 | [open-austin.org](http://open-austin.github.io/open-austin-org/) | :white_check_mark: | [Turn design comps into Jekyll code, migrate old content from WP](https://github.com/open-austin/open-austin-org/issues) | [Github](https://github.com/open-austin/open-austin-org) | OA Admin |
 | [OpenStreetMap ATX Buildings Import](https://github.com/atx-osg/atx-buildings) | :white_check_mark: | [OpenStreetMappers to help import the building footprint and address point datasets from the City of Austin into OSM](https://wiki.openstreetmap.org/wiki/Austin,_TX/Buildings_Import/Contributor_Guide) | [Github](https://github.com/atx-osg/atx-buildings) | OSM, GIS, Mapping |
-| [Texas Appleseed](http://forum-include.codio.io:3000/wordpress/) | :white_check_mark: | Browser Testing for Responsiveness. Alternative solution for large PDF downloads on mobile. | TODO | Justice & Education |
+| [Texas Appleseed](http://forum-include.codio.io:3000/wordpress/) | :white_check_mark: | Browser Testing for Responsiveness. Alternative solution for large PDF downloads on mobile. | [Github](https://github.com/open-austin/texasappleseed) | Justice & Education |
 | [Pet Alerts](http://www.pet-alerts.com/) | | [Rails skills:  New features, fix timeouts, consider docker/vagrant](https://github.com/open-austin/pet-finder/labels/advanced). [HTML/CSS Skills: Content fixes, CSS/styling issues](https://github.com/open-austin/pet-finder/issues) | [Github](https://github.com/open-austin/pet-finder) | Animal Services |
 | [MyCreekATX](http://www.mycreekatx.com/) | | TODO | [Github](https://github.com/mycreekatx) | Ecology, Water, Environment, Community Organizing |
-| [City Council Agendas] | | TODO | [Github](https://github.com/mycreekatx) | Ecology, Water, Environment, Community Organizing |
+| [City Council Agendas] | | Scraping, Leaflet | TODO | Open Data |
 
 ## Other projects Open Austin has worked on this year:
  
@@ -42,7 +42,6 @@
 - Public Input for Infrastructure
 - Occupy the Lege
 - Monstralia
-- Council Connect
 - Civic Engagement Management System
 - Lone Star Heritage Tourism Resource
 - Lesson Plan Wiki App
